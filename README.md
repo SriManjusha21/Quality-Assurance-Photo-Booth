@@ -3,10 +3,15 @@ Quality Assurance Photo Booth
 This project was developed as a part of the Capstone Project (DAEN690) by a team of 5 Data Analytics Engineering - Graduate Students of George Mason University in association with Aeronautical Systems Incorporated. The primary objective of the model is developing a Deep Learning Model to classify the images of products taken by a photo booth into damaged or undamaged class. The development of the project is divided in various phases such as the following:
 
 Data Collection: In the Data Collection phase, we acquired 3036 images from the Aeronautical Systems Incorporated. 
+
 Data Cleanup: Manually went therough all the images in the datset and named them according to their class (i.e) Damaged/Undamaged.
+
 Data Preprocessing: All the images have been scaled down to 224X224 pixels and the training dataset was aritficially multiplied using ImageDataGenerator function or Image Augmentation Technique.
+
 Data Modeling: In the Modeling phase, we used a pretrained models such as RESNET50 and VGG16 to build binary and tertiary classifiers along with the traditional Convolutional Neural Network model from the basics. However, the VGG16 model has perfomed well on our dataset as it gave better accuracy when compared to the other two models. 
+
 Visualizations: Accuracy Plot and Loss Plot have been generated against number of epochs executed to show the inmprovement in the performance of the model.
+
 Gradcam Mapping: In the Visualizations phase, we used Grad-CAM and guided Grad-CAM for visualizing the features used by model for classification. We also implemented Grad-CAM on the misclassified images to find out the reason for misclassification.
 
 Model Deployment:
