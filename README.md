@@ -12,7 +12,7 @@ This project was developed as a part of the Capstone Project (DAEN690) by a team
 
 5. Visualizations: Accuracy Plot and Loss Plot have been generated against number of epochs executed to show the inmprovement in the performance of the model.
 
-6. Gradcam Mapping: In the Visualizations phase, we used Grad-CAM and guided Grad-CAM for visualizing the features used by model for classification. We also implemented Grad-CAM on the misclassified images to find out the reason for misclassification.
+6. Grad-CAM Mapping: In the Visualisations phase, we used Grad-CAM and guided Grad-CAM for visualising the features used by model for classification. We also implemented Grad-CAM on the misclassified images to find out the reason for misclassification.
 
 Model Deployment:
 
