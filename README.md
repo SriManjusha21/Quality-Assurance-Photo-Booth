@@ -27,8 +27,8 @@ Future Work:
 
 Team:
 
-Hemanth Ghattamaneni  (Product Owner)(https://www.linkedin.com/in/hemanth-ghattamaneni-46a58b126/)
-Sri Manjusha Yarlagadda (Scrum Master)(https://www.linkedin.com/in/srimanjusha/)
-Surya Teja Kandhipati (Developer)(https://www.linkedin.com/in/surya-teja-kandhipati-b72012157/)
-Bharadwaj Gadiraju  (Developer)(https://www.linkedin.com/in/bharadwaj-gadiraju-096a8311a/)
-Saitejaswi Bellapukonda (Developer)(https://www.linkedin.com/in/saitejaswi-bellapukonda-b66618a5/)
+1. Hemanth Ghattamaneni  (Product Owner)(https://www.linkedin.com/in/hemanth-ghattamaneni-46a58b126/)
+2. Sri Manjusha Yarlagadda (Scrum Master)(https://www.linkedin.com/in/srimanjusha/)
+3. Surya Teja Kandhipati (Developer)(https://www.linkedin.com/in/surya-teja-kandhipati-b72012157/)
+4. Bharadwaj Gadiraju  (Developer)(https://www.linkedin.com/in/bharadwaj-gadiraju-096a8311a/)
+5. Saitejaswi Bellapukonda (Developer)(https://www.linkedin.com/in/saitejaswi-bellapukonda-b66618a5/)
